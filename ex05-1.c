@@ -5,6 +5,7 @@
 #include <fcntl.h>
 #include <dirent.h>
 
+// 복제된 gitch06_clone의 function 브랜치를 수정합니다.
 int main()
 {
     char buffer[256];

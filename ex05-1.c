@@ -5,6 +5,8 @@
 #include <fcntl.h>
 #include <dirent.h>
 
+// 마스터 워킹 디렉토리 작업 중
+
 int main()
 {
     char buffer[256];
